@@ -10,7 +10,7 @@ https://www.youtube.com/channel/UCil2Tm7i8ncsQnMlY_3Y8nA?sub_confirmation=1
 - 🌐 Site officiel YOLO: https://pjreddie.com/darknet/yolo/
 - ➡️Télécharger yolo:
   - **Cfg**: https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.cfg
-  - **Weigths** (246Mo): https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.cfg
+  - **Weigths** (246Mo): https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
   - **Coco names**: https://github.com/pjreddie/darknet/blob/master/data/coco.names
 
 
